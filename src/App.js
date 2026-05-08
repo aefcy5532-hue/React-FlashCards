@@ -128,7 +128,7 @@ class App extends React.Component {
       cards: [],
       currentIndex: 0,
       isFront: true,
-      studyMode: "all", 
+      studyMode: "all",
     };
   }
 
